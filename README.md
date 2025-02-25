@@ -4,8 +4,8 @@
 - 📝 Em construção de novas habilidades
 
 <div>
-  <img align="center" height=130 src="https://github-readme-stats.vercel.app/api?username=chevicovich&show_icons=true&theme=tokyonight"/>
-  <img align="center" height=130 src="https://github-readme-stats.vercel.app/api/top-langs?username=chevicovich&hide_progress=true&theme=tokyonight"/>
+  <img align="center" height=145 src="https://github-readme-stats.vercel.app/api?username=chevicovich&show_icons=true&theme=tokyonight"/>
+  <img align="center" height=145 src="https://github-readme-stats.vercel.app/api/top-langs?username=chevicovich&hide_progress=true&theme=tokyonight"/>
   
 </div>
 
