@@ -4,8 +4,8 @@
 - 📝 Em construção de novas habilidades
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chevicovich&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevicovich&hide_progress=true&theme=tokyonight"/>
+  <img align="center" height="170em"  src="https://github-readme-stats.vercel.app/api?username=chevicovich&show_icons=true&theme=tokyonight"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevicovich&hide_progress=true&theme=tokyonight"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia 
