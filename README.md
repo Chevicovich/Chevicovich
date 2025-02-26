@@ -3,6 +3,7 @@
 - 💻 Analista de Processos e Analista de Qualidade e Testes de Software
 - 📝 Em construção de novas habilidades
 
+## 📊 Estatísticas do Git
 <div>
   <img align="center" height=145 src="https://github-readme-stats.vercel.app/api?username=chevicovich&show_icons=true&theme=tokyonight"/>
   <img align="center" height=145 src="https://github-readme-stats.vercel.app/api/top-langs?username=chevicovich&hide_progress=true&theme=tokyonight"/>
@@ -18,4 +19,5 @@
                  
 </div><br/>
 
+## 💬 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-miguel-327061123/)
